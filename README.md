@@ -1,4 +1,6 @@
+- ![](https://komarev.com/ghpvc/?username=oemurlu)
 - 👋 Hi, I’m Osman Emre
 - 👀 I’m interested in iOS Development
 - 🌱 I’m currently learning Swift
 - 📫 How to reach me oemurlu@gmail.com
+
