@@ -1,15 +1,13 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=oemurlu&label=Profile%20views&color=27ba22&style=flat" alt="oemurlu" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=oemurlu&label=Profile%20views&color=27ba22&style=flat" alt="oemurlu" /> </p>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Osman+Emre+OMURLU.;&center=true&size=30&duration=3600&pause=500&color=00f900">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Osman+Emre+OMURLU+🙋‍♂+;&center=true&size=28&duration=3600&pause=500&color=00f900">
   </a>
 </h1>
 
-
-<br>
 <p align="center">
-  - 📚 I'm currently studying computer engineering at Pamukkale University.
+  - 📚 I'm studying computer engineering at Pamukkale University
   <br>
   - 👀 I’m interested in iOS Development
     <br>
@@ -18,7 +16,6 @@
   - 📍 Denizli, Turkey
 </p>
 
-
 <h2 align="center">🔗 Connect with me 🔗</h2>
 <p align="center">
 <a href="https://linkedin.com/in/oemurlu" target="blank"><img align="center" src="images/linked-in-alt.svg" alt="oemurlu" height="30" width="40" /></a>
@@ -26,8 +23,6 @@
 <a href="mailto: oemurlu@gmail.com" target="blank>oemurlu@gmail.com"><img align="center" src="images/gmail.svg" alt="oe.omurlu" height="30" width="40" /></a>
 <a href="https://instagram.com/oe.omurlu" target="blank"><img align="center" src="images/instagram.svg" alt="oe.omurlu" height="30" width="40" /></a>
 </p>
-                                          
-
 
 <h2 align="center">🔥 Languages & Tools 🔥</h2>
 <p align="center">
