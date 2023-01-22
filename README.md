@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  - 📚 I'm studying computer engineering at Pamukkale University
+  - 📚 I'm studying computer engineering at Pamukkale University (2/4)
   <br>
   - 👀 I’m interested in iOS Development
     <br>
@@ -32,7 +32,6 @@
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="images/css.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://realm.io/" target="_blank" rel="noreferrer"> <img src="images/realm.svg" alt="realm" width="40" height="40"/> </a> 
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="images/firebase.svg" alt="firebase" width="40" height="40"/> </a> 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="images/figma.svg" alt="figma" width="40" height="40"/> </a> 
 </p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oemurlu&show_icons=true&theme=dark&title_color=00f900&bg_color=000000&locale=en" alt="oemurlu" /></p>
