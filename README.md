@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  - 📚 I'm studying computer engineering at Pamukkale University (2/4)
+  - 📚 I'm studying computer engineering at Pamukkale University (3/4)
   <br>
   - 👀 I’m interested in iOS Development
     <br>
