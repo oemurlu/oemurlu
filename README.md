@@ -1,8 +1,8 @@
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=oemurlu&label=Profile%20views&color=27ba22&style=flat" alt="oemurlu" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=oemurlu&label=Profile%20views&color=2F93FF&style=flat" alt="oemurlu" /> </p>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Osman+Emre+OMURLU+🙋‍♂+;&center=true&size=28&duration=3600&pause=500&color=00f900">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Osman+Emre+OMURLU+🙋‍♂+;&center=true&size=28&duration=3600&pause=500&color=2F93FF">
   </a>
 </h1>
 
@@ -34,4 +34,4 @@
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="images/firebase.svg" alt="firebase" width="40" height="40"/> </a> 
 </p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oemurlu&show_icons=true&theme=dark&title_color=00f900&bg_color=000000&locale=en" alt="oemurlu" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oemurlu&show_icons=true&theme=dracula&title_color=2F93FF&bg_color=000000&locale=en" alt="oemurlu" /></p>
