@@ -15,7 +15,7 @@
     <br>  
   - 🔗 <a href="https://oemurlu.dev">My Portfolio</a>
   <br>
-  - 🧑‍💻 <a href="https://apps.apple.com/us/developer/osman-emre-omurlu/id1723812554">App Store</a>
+  - 🧑‍💻 <a href="https://apps.apple.com/tr/developer/osman-emre-omurlu/id1723812554">App Store</a>
 
 </p>
 
