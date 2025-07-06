@@ -5,7 +5,7 @@
 </h1>
 
 <p align="left">
-  <strong>I’m an open-minded developer with a passion for clean, well-crafted code and continuous learning.</strong>
+  <strong>I’m an open-minded iOS developer with a passion for clean, well-crafted code and continuous learning.</strong>
 </p>
 
 <p align="left">
